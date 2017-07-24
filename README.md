@@ -1,1 +1,1 @@
-Blog tworzony na podstawie książki Python i Django ad
+Blog tworzony na podstawie książki Python i Django
