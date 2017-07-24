@@ -1,1 +1,1 @@
-Blog tworzony na podstawie książki Python i Django aaaads
+Blog tworzony na podstawie książki Python i Django dsf
