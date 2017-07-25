@@ -1,4 +1,2 @@
 Blog tworzony na podstawie książki Python i Django
 asdasd
-asdf
-qerq
